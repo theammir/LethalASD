@@ -1,7 +1,7 @@
 {
     "name": "LethalASD",
-    "version_number": "1.0.0",
-    "website_url": "",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/theammir/LethalASD",
     "description": "We're getting 98/100 with this one",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
